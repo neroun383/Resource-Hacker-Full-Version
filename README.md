@@ -241,4 +241,4 @@ This repository serves as the official landing page for Resource Hacker. The sof
 **Get the most recent version of Resource Hacker today!**
 
 ---
-**Last updated:** 2026-09-29 19:08:07 UTC
+**Last updated:** 2026-09-29 23:28:08 UTC
